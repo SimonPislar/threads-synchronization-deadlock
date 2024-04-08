@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/simonpisler/Documents/Skolarbeten/OSPP/threads-synchronization-deadlock/higher-grade -B /Users/simonpisler/Documents/Skolarbeten/OSPP/threads-synchronization-deadlock/higher-grade/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "higher_grade/src" is reserved or not valid for certain
+  CMake features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/simonpisler/Documents/Skolarbeten/OSPP/threads-synchronization-deadlock/higher-grade/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/simonpisler/Documents/Skolarbeten/OSPP/threads-synchronization-deadlock/higher-grade/cmake-build-debug/CMakeFiles/CMakeError.log".

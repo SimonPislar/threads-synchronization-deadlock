@@ -1,0 +1,3 @@
+/Users/simonpisler/Documents/Skolarbeten/OSPP/threads-synchronization-deadlock/higher-grade/cmake-build-debug/CMakeFiles/higher_grade.dir
+/Users/simonpisler/Documents/Skolarbeten/OSPP/threads-synchronization-deadlock/higher-grade/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simonpisler/Documents/Skolarbeten/OSPP/threads-synchronization-deadlock/higher-grade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
